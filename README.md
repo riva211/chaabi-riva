@@ -1,7 +1,15 @@
+# The site is live on  
+# rivastyping-game.netlify.app
+
+
+
+
+
 This is a React app for a typing game. 
 To run the code 
 * npm i (to install all the node modules)
 * npm run start (to run the app over local browser on localhost 3000)
+
 
 
 The app has two main components:
